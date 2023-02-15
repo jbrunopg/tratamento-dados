@@ -19,5 +19,6 @@ Tratar os dados do dataframe e criar um gráfico sobre a coluna "PL".
 - A coluna PL é o número de anos para reaver a compra de uma ação.
 - A coluna PVP é o valor sobre o quanto o mercado está disposto a pagar sobre patrimônio líquido da empresa.
 
-Agradecimento
+## Agradecimento
+
 Agradeço ao Henrique de Andrade pela ideia do desafio da realização do projeto.
