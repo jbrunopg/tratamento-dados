@@ -7,7 +7,7 @@ A fundamentus tem um site sobre as principais ações disponíveis na Ibovespa, 
 
 Tratar os dados do dataframe e criar um gráfico sobre a coluna "PL".
 
-## Meu processo
+## Processo de Desenvolvimento
 
 - [x] Importação das bibliotecas Pandas e Matplotlib.
 - [x] Trocar as vírgulas por pontos e converter de Object para Float.
