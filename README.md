@@ -1,6 +1,7 @@
 # Tratamento Dados
 
-Presente projeto visa tratar os dados do arquivo CSV que foi extraído no <a href="https://github.com/jbrunopg/extracao-dados-site">projeto anterior</a>.
+A fundamentus tem um site sobre as principais ações disponíveis na Ibovespa, após extrair essas informações do site, resolve tratar os dados sobre essas ações nesse projeto. Link do <a href="https://github.com/jbrunopg/extracao-dados-site">projeto anterior</a>.
+
 
 ## Objetivo
 
