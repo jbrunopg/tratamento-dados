@@ -18,4 +18,4 @@ Tratar os dados do dataframe e criar um gráfico sobre a coluna "PL".
 
 ## Agradecimento
 
-Agradeço ao Henrique de Andrade pela ideia do desafio da realização do projeto.
+Agradeço ao <a href="https://www.linkedin.com/in/henrique-de-andrade/">Henrique de Andrade</a> pela ideia do desafio da realização do projeto.
